@@ -1,0 +1,9 @@
+eel==0.16.0
+playsound==1.2.2
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+wikipedia==1.4.0
+pyjokes==0.6.0
+requests==2.32.3
+pywhatkit==5.4
+pyaudio
