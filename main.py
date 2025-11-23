@@ -66,12 +66,7 @@ def voice_loop():
             elif query in ["hi", "hello"]:
                 speak("Hello!")
 
-            elif "project guide" in query:
-                speak("My project guide is Mrs. N. Madhavilatha madam")
-
-            elif "who developed you" in query:
-                speak("I was developed by MSR")
-
+          
             elif "open google" in query:
                 speak("Opening Google...")
                 openCommand("open google")
